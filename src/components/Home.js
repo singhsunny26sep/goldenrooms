@@ -8,7 +8,7 @@ export default function Home() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center">
             <i className="fas fa-home text-blue-600 text-2xl mr-2"></i>
-            <h1 className="text-xl font-bold text-gray-800">Golden Rooms</h1>
+            <h1 className="text-xl font-bold text-gray-800">PrimeProperties</h1>
           </div>
           
           <nav className="hidden md:flex space-x-8">
@@ -80,7 +80,7 @@ export default function Home() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <h3 className="text-xl font-bold text-gray-800">Modern Apartment</h3>
-                  <span className="text-xl font-bold text-blue-600">$1,200/mo</span>
+                  <span className="text-xl font-bold text-blue-600">₹1,20,000/mo</span>
                 </div>
                 
                 <p className="text-gray-600 mb-4 flex items-center">
@@ -130,7 +130,7 @@ export default function Home() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <h3 className="text-xl font-bold text-gray-800">Luxury Villa</h3>
-                  <span className="text-xl font-bold text-blue-600">$3,500/mo</span>
+                  <span className="text-xl font-bold text-blue-600">₹3,50,000/mo</span>
                 </div>
                 
                 <p className="text-gray-600 mb-4 flex items-center">
@@ -180,7 +180,7 @@ export default function Home() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <h3 className="text-xl font-bold text-gray-800">Cozy Studio</h3>
-                  <span className="text-xl font-bold text-blue-600">$850/mo</span>
+                  <span className="text-xl font-bold text-blue-600">₹85,000/mo</span>
                 </div>
                 
                 <p className="text-gray-600 mb-4 flex items-center">
