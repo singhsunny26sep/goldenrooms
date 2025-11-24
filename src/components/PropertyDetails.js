@@ -165,7 +165,6 @@ export default function PropertyDetails() {
                 </div>
                 <span className="text-2xl font-bold text-blue-600">{property.price}</span>
               </div>
-
               <div className="flex space-x-6 text-gray-600 border-b border-gray-200 pb-4 mb-4">
                 <div className="flex items-center">
                   <i className="fas fa-bed text-blue-500 mr-2"></i>
@@ -180,7 +179,6 @@ export default function PropertyDetails() {
                   <span>{property.area}</span>
                 </div>
               </div>
-
               <div>
                 <h3 className="text-xl font-bold text-gray-800 mb-3">Description</h3>
                 <p className="text-gray-600 leading-relaxed">{property.description}</p>
