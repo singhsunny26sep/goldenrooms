@@ -351,11 +351,11 @@ export default function Home() {
                 </li>
                 <li className="flex items-center">
                   <i className="fas fa-phone mr-2 text-blue-400"></i>
-                  +1 (555) 123-4567
+                  +91 7588259708
                 </li>
                 <li className="flex items-center">
                   <i className="fas fa-envelope mr-2 text-blue-400"></i>
-                  info@primeproperties.com
+              rohanmali9977@gmail.com
                 </li>
               </ul>
             </div>
