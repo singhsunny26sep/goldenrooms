@@ -4,6 +4,7 @@ import Products from "./components/Products";
 import Services from "./components/Services";
 import Analytics from "./components/Analytics";
 import Settings from "./components/Settings";
+import PropertyDetails from "./components/PropertyDetails";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/services" element={<Services />} />
         <Route path="/analytics" element={<Analytics />} />
         <Route path="/settings" element={<Settings />} />
+        <Route path="/property/:id" element={<PropertyDetails />} />
       </Routes>
     </Router>
   );
